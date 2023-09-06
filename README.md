@@ -1,12 +1,12 @@
-###Software Developer
+Software Developer
 
-###education
+education
 software developer niveau 4 mbo.
 
-###experience
+experience
 no real work experience but about 10 projects done ranging from c# to php and html
 
-###projects
+projects
 
 -1st project-code easy
 this was my first introduction to c# we had to complete very simple tasks to learn about coding, kind of like the standard "hello world" code you do.
